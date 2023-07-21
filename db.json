@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "San phẩm A",
+      "price": 100,
+      "id": 1
+    },
+    {
+      "name": "San phẩm A update",
+      "id": 2
+    },
+    {
+      "name": "San phẩm A",
+      "price": 100,
+      "id": 3
+    }
+  ]
+}
